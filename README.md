@@ -14,12 +14,6 @@ It demonstrates basic **HTML structure, elements, and formatting**, making it pe
 - **Unordered lists (`<ul>`)** for ingredients.
 - **Ordered lists (`<ol>`)** for step-by-step instructions.
 - **Image with `alt` text** to display the cake visually.
-- **CSS styling** inside a `<style>` tag for:
-  - Background color
-  - Fonts and colors
-  - Centered, card-style layout
-  - Rounded corners and shadows
-- **Footer** with a copyright.
 
 ---
 
